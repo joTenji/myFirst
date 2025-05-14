@@ -1,1 +1,2 @@
-echo "hello world !" >> info.log 2>>errors.log
+#!/bin/bash
+sudo apt install apache2 -y
